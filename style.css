@@ -1,0 +1,83 @@
+body{
+    width: 90%;
+    height: 90%;
+    margin: 10px;;
+    padding:0;
+    font-family:sans-serif;
+    background-image: url(mybackground.png);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.signupform{
+    width: 300px;
+    height: 520px;
+    background:#fff;
+    padding: 20px;
+    margin: 3% auto 0;
+    text-align: center;
+    text-decoration-line: underline;
+    
+
+
+}
+.signupform h1{
+    color: rgb(43, 20, 255);
+    margin-bottom: 30px;
+    text-decoration: solid;
+    text-shadow: 10px;
+    margin-top: -15;
+}
+.account{
+    text-align: center;
+    text-transform: lowercase;
+}
+
+
+
+
+.recover {
+    text-align: right;
+}
+.inputbox{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 80%;
+    border: 1px solid #999;
+    outline: invert;
+}
+button{
+    color: blanchedalmond;
+    width: 80%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15;
+    margin: 10px 0;
+    border: blueviolet;
+    outline: invert;
+    cursor: pointer;
+    text-align: center;
+}
+.signupbtn{
+    background-color: rgb(51, 139, 0);
+    width: 95%;
+    
+    
+}
+.loginbtn{
+    background-color: rgb(51, 139, 0);enta;
+    width: 95%;
+}
+.or{
+    background: #fff;
+    width: 30px;
+    margin: -19px auto 10px;
+}
+
+
+
+a{
+    text-decoration: none;
+}
